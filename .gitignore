@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+build/
+.vscode/
+*.log
+.DS_Store
+school-app/.vite/
+admin-desktop/.vite/
+package-lock.json

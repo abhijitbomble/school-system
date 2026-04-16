@@ -1,0 +1,121 @@
+[
+  {
+    "subject": "Science",
+    "chapter": "Chapter 1: Gravitation",
+    "standard": "Std 10",
+    "topic": "Newton's Law of Universal Gravitation",
+    "content": "Every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. The formula is F = G × (m1 × m2) / r², where G is the gravitational constant (6.674 × 10⁻¹¹ N⋅m²/kg²), m1 and m2 are the masses, and r is the distance between the centers of the two objects. This law was formulated by Sir Isaac Newton in 1687 in his work Principia Mathematica."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 1: Gravitation",
+    "standard": "Std 10",
+    "topic": "Acceleration due to gravity (g)",
+    "content": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s². It is denoted by 'g'. The value of g depends on the mass and radius of the planet. On the Moon, g is approximately 1.63 m/s² which is about 1/6th of Earth's gravity. The formula to calculate g is: g = GM/R², where G is the gravitational constant, M is the mass of the Earth, and R is the radius of the Earth. The value of g decreases as we go above the surface of the Earth or below the surface."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 1: Gravitation",
+    "standard": "Std 10",
+    "topic": "Free fall and weight",
+    "content": "When an object falls only under the influence of gravity, it is said to be in free fall. During free fall, the acceleration of the object equals g. An astronaut in the International Space Station experiences weightlessness because the station is in continuous free fall around the Earth. Weight is the force exerted by gravity on an object: W = mg. Mass is constant everywhere but weight changes depending on the value of g. On the Moon, an object weighs 1/6th of its weight on Earth."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 1: Gravitation",
+    "standard": "Std 10",
+    "topic": "Kepler's Laws of Planetary Motion",
+    "content": "Johannes Kepler formulated three laws of planetary motion. First Law (Law of Orbits): Every planet revolves around the Sun in an elliptical orbit with the Sun at one focus. Second Law (Law of Areas): The line joining a planet to the Sun sweeps out equal areas in equal time intervals. This means a planet moves faster when it is closer to the Sun. Third Law (Law of Periods): The square of the time period of revolution of a planet is proportional to the cube of its average distance from the Sun. T² ∝ r³."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 2: Periodic Classification of Elements",
+    "standard": "Std 10",
+    "topic": "Mendeleev's Periodic Table",
+    "content": "Dmitri Mendeleev arranged the then-known 63 elements in order of increasing atomic mass. He noticed that elements with similar properties appeared at regular intervals (periods). He left gaps for undiscovered elements and predicted their properties. For example, he predicted the existence of gallium (eka-aluminium) and germanium (eka-silicon). Mendeleev's table had limitations: the position of isotopes was not clear, and some elements were not in order of increasing atomic mass (e.g., cobalt and nickel)."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 2: Periodic Classification of Elements",
+    "standard": "Std 10",
+    "topic": "Modern Periodic Table",
+    "content": "The Modern Periodic Table is based on atomic number (number of protons) as proposed by Henry Moseley. It has 18 groups (vertical columns) and 7 periods (horizontal rows). Elements in the same group have the same number of valence electrons and show similar chemical properties. Moving left to right across a period: atomic radius decreases, ionization energy increases, electronegativity increases. Moving top to bottom in a group: atomic radius increases, ionization energy decreases, metallic character increases."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 3: Chemical Reactions and Equations",
+    "standard": "Std 10",
+    "topic": "Types of Chemical Reactions",
+    "content": "The five main types of chemical reactions are: 1) Combination reaction: Two or more substances combine to form a single product (e.g., 2Mg + O₂ → 2MgO). 2) Decomposition reaction: A single compound breaks into simpler substances (e.g., 2FeSO₄ → Fe₂O₃ + SO₂ + SO₃). 3) Displacement reaction: A more reactive element replaces a less reactive one (e.g., Fe + CuSO₄ → FeSO₄ + Cu). 4) Double displacement: Exchange of ions between two compounds (e.g., NaOH + HCl → NaCl + H₂O). 5) Redox reaction: Involves both oxidation and reduction."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 4: Effects of Electric Current",
+    "standard": "Std 10",
+    "topic": "Ohm's Law and Resistance",
+    "content": "Ohm's Law states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided the temperature remains constant. V = IR, where V is voltage (in volts), I is current (in amperes), and R is resistance (in ohms). Resistance depends on: 1) Length of conductor (R ∝ l), 2) Cross-sectional area (R ∝ 1/A), 3) Material of conductor (resistivity ρ), 4) Temperature. The formula is R = ρl/A."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 5: Life Processes",
+    "standard": "Std 10",
+    "topic": "Human Digestive System",
+    "content": "The human digestive system consists of the alimentary canal and associated digestive glands. Food enters through the mouth where it is mechanically broken down by teeth and chemically digested by salivary amylase (which breaks starch into maltose). The food then passes through the oesophagus to the stomach where gastric juice (containing HCl and pepsin) breaks down proteins. In the small intestine, bile from the liver emulsifies fats, and pancreatic juice contains trypsin, lipase, and amylase. Villi in the small intestine absorb nutrients. The large intestine absorbs water and the undigested food is excreted."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 5: Life Processes",
+    "standard": "Std 10",
+    "topic": "Human Circulatory System",
+    "content": "The human heart is a four-chambered muscular organ that pumps blood throughout the body. It has two atria (upper chambers) and two ventricles (lower chambers). Deoxygenated blood from the body enters the right atrium via the superior and inferior vena cava, passes to the right ventricle, and is pumped to the lungs via the pulmonary artery. Oxygenated blood returns to the left atrium via pulmonary veins, passes to the left ventricle, and is pumped to the body via the aorta. This is called double circulation. The heart beats about 72 times per minute."
+  },
+  {
+    "subject": "Science",
+    "chapter": "Chapter 5: Life Processes",
+    "standard": "Std 10",
+    "topic": "Photosynthesis",
+    "content": "Photosynthesis is the process by which green plants convert carbon dioxide and water into glucose and oxygen using sunlight energy. The equation is: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. It occurs in the chloroplasts, specifically in the chlorophyll pigment. The light-dependent reactions occur in the thylakoid membranes (producing ATP and NADPH), and the Calvin cycle (light-independent reactions) occurs in the stroma. Factors affecting photosynthesis: light intensity, CO₂ concentration, temperature, and water availability."
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Linear Equations in Two Variables",
+    "standard": "Std 10",
+    "topic": "Solving Linear Equations",
+    "content": "A linear equation in two variables is of the form ax + by + c = 0, where a, b, c are real numbers and a and b are not both zero. A system of two linear equations can be solved by: 1) Graphical method (finding the point of intersection), 2) Substitution method (express one variable in terms of the other), 3) Elimination method (add or subtract equations to eliminate one variable), 4) Cross-multiplication method. A system is consistent if it has at least one solution, and inconsistent if it has no solution."
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Quadratic Equations",
+    "standard": "Std 10",
+    "topic": "Quadratic Formula",
+    "content": "A quadratic equation is of the form ax² + bx + c = 0, where a ≠ 0. The solutions (roots) are given by the quadratic formula: x = (-b ± √(b² - 4ac)) / 2a. The discriminant D = b² - 4ac determines the nature of roots: if D > 0, there are two distinct real roots; if D = 0, there are two equal real roots; if D < 0, there are no real roots (complex roots). The sum of roots = -b/a and the product of roots = c/a."
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Arithmetic Progressions",
+    "standard": "Std 10",
+    "topic": "AP Formulas",
+    "content": "An Arithmetic Progression (AP) is a sequence where the difference between consecutive terms is constant. This constant difference is called 'common difference' (d). If the first term is 'a', then the nth term: aₙ = a + (n-1)d. The sum of first n terms: Sₙ = n/2 × [2a + (n-1)d] or Sₙ = n/2 × (a + l), where l is the last term. Example: 2, 5, 8, 11... is an AP with a = 2 and d = 3."
+  },
+  {
+    "subject": "History",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "standard": "Std 8",
+    "topic": "Mughal Rulers and Administration",
+    "content": "The Mughal Empire was founded by Babur in 1526 after the Battle of Panipat. Important rulers: Babur (1526-1530), Humayun (1530-1556), Akbar (1556-1605), Jahangir (1605-1627), Shah Jahan (1627-1658), Aurangzeb (1658-1707). Akbar was known for his policy of religious tolerance (Sulh-i-Kul), the Mansabdari system, and Din-i-Ilahi. Shah Jahan built the Taj Mahal and Red Fort. The empire declined after Aurangzeb due to his rigid policies, Maratha resistance, and invasions by Nadir Shah and Ahmad Shah Abdali."
+  },
+  {
+    "subject": "History",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "standard": "Std 8",
+    "topic": "Akbar's Administration",
+    "content": "Akbar introduced several administrative reforms. The Mansabdari system assigned ranks (mansabs) to officials to determine their status and pay. Land revenue was collected through the 'Zabt' system introduced by Todar Mal, where land was measured, classified by fertility, and tax rates were fixed. Akbar promoted religious harmony through discussions at the Ibadat Khana (House of Worship) in Fatehpur Sikri. He abolished the jizya tax on non-Muslims. His 'Nine Gems' (Navaratnas) included Birbal, Tansen, and Abul Fazl."
+  },
+  {
+    "subject": "Geography",
+    "chapter": "Chapter 3: Physical Features of India",
+    "standard": "Std 8",
+    "topic": "Major Physical Divisions of India",
+    "content": "India has six major physical divisions: 1) The Himalayan Mountains: Young fold mountains divided into Shiwalik (Outer), Lesser Himalayas, and Greater Himalayas. Highest peak: Mt. Everest (8,849m). 2) The Northern Plains: Formed by alluvial deposits of Indus, Ganga, and Brahmaputra rivers. Very fertile agricultural land. 3) The Peninsular Plateau: Made of old crystalline, igneous, and metamorphic rocks. Divided into Deccan Plateau and Central Highlands. 4) The Indian Desert (Thar): Located in western Rajasthan. 5) The Coastal Plains: Eastern (Coromandel) and Western (Malabar) coasts. 6) The Islands: Andaman & Nicobar (Bay of Bengal) and Lakshadweep (Arabian Sea)."
+  }
+]
